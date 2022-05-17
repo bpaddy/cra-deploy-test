@@ -18,6 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        This is the body of the document
+      </body>
+      <footer>
+        footer area
+      </footer>
     </div>
   );
 }
